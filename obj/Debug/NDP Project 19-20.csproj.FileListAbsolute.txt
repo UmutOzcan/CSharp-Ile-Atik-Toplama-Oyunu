@@ -1,0 +1,10 @@
+C:\Users\umuty\source\repos\NDP Project 19-20\NDP Project 19-20\bin\Debug\NDP Project 19-20.exe.config
+C:\Users\umuty\source\repos\NDP Project 19-20\NDP Project 19-20\bin\Debug\NDP Project 19-20.exe
+C:\Users\umuty\source\repos\NDP Project 19-20\NDP Project 19-20\bin\Debug\NDP Project 19-20.pdb
+C:\Users\umuty\source\repos\NDP Project 19-20\NDP Project 19-20\obj\Debug\NDP Project 19-20.csprojAssemblyReference.cache
+C:\Users\umuty\source\repos\NDP Project 19-20\NDP Project 19-20\obj\Debug\NDP_Project_19_20.Form1.resources
+C:\Users\umuty\source\repos\NDP Project 19-20\NDP Project 19-20\obj\Debug\NDP_Project_19_20.Properties.Resources.resources
+C:\Users\umuty\source\repos\NDP Project 19-20\NDP Project 19-20\obj\Debug\NDP Project 19-20.csproj.GenerateResource.cache
+C:\Users\umuty\source\repos\NDP Project 19-20\NDP Project 19-20\obj\Debug\NDP Project 19-20.csproj.CoreCompileInputs.cache
+C:\Users\umuty\source\repos\NDP Project 19-20\NDP Project 19-20\obj\Debug\NDP Project 19-20.exe
+C:\Users\umuty\source\repos\NDP Project 19-20\NDP Project 19-20\obj\Debug\NDP Project 19-20.pdb
